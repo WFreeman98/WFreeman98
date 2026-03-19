@@ -16,7 +16,7 @@ I am seeking an entry-level SOC Analyst or cybersecurity internship role where I
 | Endpoint Telemetry Collection (Sysmon) | <a href="https://github.com/WFreeman98/soc-analyst-home-lab-active-directory">Active Directory SIEM Detection Lab</a> |
 | Attack Simulation and Detection Validation | <a href="https://github.com/WFreeman98/soc-analyst-home-lab-active-directory">Active Directory SIEM Detection Lab</a> |
 | Authentication Log Analysis and Threat Investigation | <a href="https://github.com/WFreeman98/soc-analyst-home-lab-active-directory">Active Directory SIEM Detection Lab</a> |
-| Network Traffic Monitoring and Threat Detection | <a href="https://github.com/WFreeman98/security-onion-lab">Security Onion Detection Lab</a> |
+
 
 ## Tools
 
@@ -58,9 +58,6 @@ I am seeking an entry-level SOC Analyst or cybersecurity internship role where I
 </div>
 
 ## Projects
--<a href=https://github.com/WFreeman98/Active-Directory-Home-Lab-Attack-Simulation-SIEM-Detection/edit/main/README.md>Active Directory SIEM Detection Lab</a>
+<a href=https://github.com/WFreeman98/Active-Directory-Home-Lab-Attack-Simulation-SIEM-Detection/edit/main/README.md>Active Directory SIEM Detection Lab</a>
 
 Built a 4-machine enterprise lab using Windows Server, Windows 10, Kali Linux, and Splunk SIEM to simulate real-world attack scenarios. Implemented Sysmon and Splunk Universal Forwarder to collect and centralize logs. Simulated brute force and account creation attacks, then analyzed authentication and endpoint logs in Splunk to detect and investigate malicious activity while mapping behavior to MITRE ATT&CK techniques.
-
-### <a href="https://github.com/WFreeman98/security-onion-lab">Security Onion Detection Lab</a>
-Developing a network detection and threat hunting lab using Security Onion. Analyzing network traffic using Zeek and Suricata to detect suspicious activity, review alerts, and investigate attacker behavior in a SOC-style environment.
