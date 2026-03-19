@@ -11,7 +11,7 @@ I am seeking an entry-level SOC Analyst or cybersecurity internship role where I
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Active Directory Administration and Domain Configuration | <a href="https://github.com/WFreeman98/soc-analyst-home-lab-active-directory">Active Directory SIEM Detection Lab</a> |
+| Active Directory Administration and Domain Configuration | <a href=https://github.com/WFreeman98/Active-Directory-Home-Lab-Attack-Simulation-SIEM-Detection/edit/main/README.md>Active Directory SIEM Detection Lab</a> |
 | SIEM Implementation and Log Analysis | <a href="https://github.com/WFreeman98/soc-analyst-home-lab-active-directory">Active Directory SIEM Detection Lab</a> |
 | Endpoint Telemetry Collection (Sysmon) | <a href="https://github.com/WFreeman98/soc-analyst-home-lab-active-directory">Active Directory SIEM Detection Lab</a> |
 | Attack Simulation and Detection Validation | <a href="https://github.com/WFreeman98/soc-analyst-home-lab-active-directory">Active Directory SIEM Detection Lab</a> |
