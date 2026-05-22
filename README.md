@@ -1,11 +1,11 @@
 # Hello, I'm William Freeman
 <a href="https://linkedin.com/in/william-freeman-md"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity student with hands-on experience building lab environments to simulate attacks and analyze security events. I focus on developing practical skills in SIEM analysis, threat detection, and incident investigation.
+I am a cybersecurity student with hands on experience building lab environments to simulate attacks and analyze security events. I focus on developing practical skills in SIEM analysis, threat detection, and incident investigation.
 
 ## Objective
 
-I am seeking an entry-level SOC Analyst or cybersecurity internship role where I can apply my skills in log analysis, threat detection, and incident investigation. My goal is to continue developing as a blue team analyst by working with real security tools and monitoring environments.
+I am seeking an entry level SOC Analyst or cybersecurity internship role where I can apply my skills in log analysis, threat detection, and incident investigation. My goal is to continue developing as a blue team analyst by working with real security tools and monitoring environments.
 
 ## Skills
 
