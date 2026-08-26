@@ -5,7 +5,7 @@ I am a cybersecurity student with hands on experience building lab environments 
 
 ## Objective
 
-I am seeking an entry level Cybersecurity Analyst or internship role where I can apply my skills in log analysis, threat detection, and incident investigation. My goal is to continue developing as a blue team analyst by working with real security tools and monitoring environments.
+I am seeking an entry level Help Desk Specialist or IT Support role where I can apply my skills in Windows troubleshooting, Active Directory, networking, and technical problem solving. My goal is to continue developing my IT support experience by helping users resolve technical issues while gaining hands on experience with enterprise systems and support tools.
 
 ## Skills
 
