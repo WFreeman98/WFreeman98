@@ -53,7 +53,7 @@ I’m looking for an entry level cybersecurity or SOC Analyst role where I can k
 <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-Comptia CySA+
+<img src="https://img.shields.io/badge/-CompTIA_CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
 <a href=https://github.com/WFreeman98/Active-Directory-Home-Lab-Attack-Simulation-SIEM-Detection/edit/main/README.md>Active Directory SIEM Detection Lab</a>
