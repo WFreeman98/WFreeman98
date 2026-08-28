@@ -5,7 +5,7 @@ I am a cybersecurity student with hands on experience building lab environments 
 
 ## Objective
 
-I am seeking an entry level Help Desk Specialist or IT Support role where I can apply my skills in Windows troubleshooting, Active Directory, networking, and technical problem solving. My goal is to continue developing my IT support experience by helping users resolve technical issues while gaining hands on experience with enterprise systems and support tools.
+I’m looking for an entry level cybersecurity or SOC Analyst role where I can keep growing and apply what I’ve been practicing hands on. Through my Active Directory Security information event management Detection Lab, I worked with Splunk, Sysmon, and Windows Security logs to investigate logons, account changes, privilege changes, PowerShell activity, persistence indicators, and endpoint security events. I’m excited to keep building experience in security operations by reviewing alerts, documenting findings, and learning how to spot suspicious activity in a real world work environment.
 
 ## Skills
 
