@@ -4,9 +4,10 @@
 I am a cybersecurity student with hands on experience building lab environments to simulate attacks and analyze security events. I focus on developing practical skills in SIEM analysis, threat detection, and incident investigation.
 
 ## Objective
-
-I’m looking for an entry level cybersecurity or SOC Analyst role where I can keep growing and apply what I’ve been practicing hands on. Through my Active Directory Security information event management Detection Lab, I worked with Splunk, Sysmon, and Windows Security logs to investigate logons, account changes, privilege changes, PowerShell activity, persistence indicators, and endpoint security events. I’m excited to keep building experience in security operations by reviewing alerts, documenting findings, and learning how to spot suspicious activity in a real world work environment.
-
+I’m looking for a Junior cybersecurity, SOC Analyst, or IT support role where I can keep growing and apply what I’ve practiced hands-on. I’m CompTIA A+, Security+, and CySA+ certified, and I’m currently gaining experience as a Cybersecurity Analyst Intern through the Cyber Ready Clinic.
+My projects include an Active Directory SIEM Detection Lab where I used Splunk, Sysmon, and Windows Security logs to investigate suspicious activity such as failed logons, account changes, privilege changes, PowerShell activity, persistence indicators, and endpoint security events.
+I also built an Active Directory ServiceNow Help Desk Lab where I practiced resolving realistic support tickets involving password resets, account lockouts, access requests, printer troubleshooting, workstation issues, user offboarding, and ticket documentation.
+I’m excited to keep building experience by reviewing alerts, troubleshooting user issues, documenting findings, and learning from experienced IT and security teams.
 ## Skills
 
 | Skill | Associated Project |
