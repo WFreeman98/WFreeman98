@@ -27,11 +27,21 @@ I’m excited to keep building experience by reviewing alerts, troubleshooting u
     <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Endpoint
+### Help Desk / Ticketing
 <div>
-    <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Event_Logs-005A9C?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow-00A1E0?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Remote_Desktop_Protocol-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Print_Spooler-005A9C?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
+### Endpoint / Windows Administration
+<div>
     <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Group_Policy-005A9C?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DNS-003366?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DHCP-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Logs-005A9C?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ### SIEM / Detection
@@ -57,6 +67,11 @@ I’m excited to keep building experience by reviewing alerts, troubleshooting u
 <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-<a href=https://github.com/WFreeman98/Active-Directory-Home-Lab-Attack-Simulation-SIEM-Detection/edit/main/README.md>Active Directory SIEM Detection Lab</a>
 
-Built a 4-machine enterprise lab using Windows Server, Windows 10, Kali Linux, and Splunk SIEM to simulate real-world attack scenarios. Implemented Sysmon and Splunk Universal Forwarder to collect and centralize logs. Simulated brute force and account creation attacks, then analyzed authentication and endpoint logs in Splunk to detect and investigate malicious activity while mapping behavior to MITRE ATT&CK techniques.
+<a href="https://github.com/WFreeman98/Active-Directory-Home-Lab-Attack-Simulation-SIEM-Detection">Active Directory SIEM Detection Lab</a>
+
+Built a 4-machine enterprise-style lab using Windows Server 2022, Windows 10, Kali Linux, Ubuntu, Splunk SIEM, Sysmon, and Windows Event Logs. Simulated and validated 15 security detections, including brute force activity, password spraying, account creation, privileged group changes, PowerShell activity, persistence indicators, internal scanning, and endpoint security events. Investigated activity in Splunk and mapped detections to MITRE ATT&CK techniques.
+
+<a href="https://github.com/WFreeman98/ActiveDirectory-ServiceNow-Ticketing-Lab">Active Directory ServiceNow Help Desk Lab</a>
+
+Built a Windows Server 2022 domain lab using Active Directory, DNS, DHCP, Group Policy, and a domain-joined Windows 10 client to simulate an enterprise help desk environment. Created and resolved ServiceNow tickets for password resets, account lockouts, access requests, printer issues, workstation troubleshooting, display/time zone settings, and user offboarding. Practiced documenting tickets, verifying fixes, and resolving realistic Tier 1/Tier 2 support issues.
